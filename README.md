@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍🎓 I'm a 1st year Computer Engineering student at Balıkesir University.<br> 👨‍💻 I'm currently working on my skills.<br> 🎓 I'm currently learning  about Python and C# language.<br> 📱 How to reach me : herensarpdag@gmail.com<br> 😃Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music
+ 👨‍🎓 I'm a 1st year Computer Engineering student at Balıkesir University.<br> 👨‍💻 I'm currently working on my skills.<br> 🎓 I'm currently learning  about Python and C# language.<br> 📱 How to reach me : herensarpdag@gmail.com<br> 😃Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music and of course coding.
 
 
 ## 🌐 Socials:
