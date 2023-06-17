@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/Hamza-Eren/">Hamza!</a> </h1>
 
 ## 💫 About Me:
- 👨‍🎓 I study in Balıkesir University as a 1th grade student of Software Engineer in Turkey.<br> 👨‍💻 I'm currently working on my skills.<br> 🎓 I'm currently learning  about Python and C# language.<br> 📱 How to reach me : herensarpdag@gmail.com<br> 😃Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music and of course coding.
+ 👨‍🎓 I study in Balıkesir University as a 1th grade student of Computer Engineer in Turkey.<br> 👨‍💻 I'm currently working on my skills.<br> 🎓 I'm currently learning about Python and C# language.<br> 📱 How to reach me : herensarpdag@gmail.com<br> 😃Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music and of course coding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-eren-sarpdağ-a728b8272/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21659338) [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/H4mz4Eren) [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hamzaerensarpdag/)
