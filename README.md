@@ -13,5 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Eren&layout=compact&langs_count=16&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=Hamza-Eren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues)
 
+
+![Snake animation](https://github.com/Hamza-Eren/Hamza-Eren/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Hamza-Eren&icon=3&color=0)](https://visitcount.itsvg.in)
