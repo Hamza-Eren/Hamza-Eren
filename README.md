@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hamza-Eren&show_icons=true&theme=dracula)
 
 
-![Snake animation](https://github.com/Hamza-Eren/Hamza-Eren/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Hamza-Eren/Hamza-Eren/blob/output/github-contribution-grid-snake.svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=Hamza-Eren&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hamza-Eren&icon=3&color=0)](https://visitcount.itsvg.in)-->
