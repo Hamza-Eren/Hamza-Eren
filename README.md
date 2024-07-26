@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  <a href="https://github.com/Hamza-Eren/">Hamza!</a> </h1>
 
 ## 💫 About Me:
- 👨‍🎓 I study in Balıkesir University as a 2nd grade student of Computer Engineer in Turkey.<br> 👨‍💻 I'm currently working on my skills.<br> 🎓 I'm currently learning about Python and Java language.<br> 📱 How to reach me : herensarpdag@gmail.com<br> 😃Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music and of course coding.
+ 👨‍🎓 I study at Balıkesir University as a 2nd-year Computer Engineering student in Turkey.<br> 👨‍💻 I'm currently working on improving my skills.<br> 🎓 I'm currently learning Python and Java.<br> 📱 How to reach me : herensarpdag@gmail.com<br> 😃Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music and, of course, coding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-eren-sarpdag/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21659338) [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/H4mz4Eren) [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hamzaerensarpdag/)
