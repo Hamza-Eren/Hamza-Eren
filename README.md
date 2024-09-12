@@ -1,5 +1,5 @@
 # 💫 About Me:
- I study at Balıkesir University as a 3rd-year Computer Engineering student in Turkey.<br> 👨‍💻 I'm currently working on improving my skills.<br> 🎓 I'm currently learning Arduino and SQL.<br> 📱 How to reach me : herensarpdag@gmail.com<br> 😃Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music and, of course, coding.<br>
+🎓 I study at Balıkesir University as a 3rd-year Computer Engineering student in Turkey.<br> 💯 I'm currently working on improving my skills.<br> 👨‍💻 I'm currently learning Arduino and SQL.<br> 📱 How to reach me : herensarpdag@gmail.com<br> &nbsp;♂ &nbsp;Pronouns : he/him<br> ⚡ Fun fact: My favorite hobby is listening to music and, of course, coding.<br>
 
 
 ## 🌐 Socials:
